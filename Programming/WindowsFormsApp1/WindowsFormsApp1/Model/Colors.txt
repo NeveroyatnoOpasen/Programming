@@ -1,0 +1,6 @@
+public colors enum{
+  Red,
+  Green,
+  Black,
+  White
+}

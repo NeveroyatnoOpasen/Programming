@@ -1,0 +1,9 @@
+public WeekDay enum {
+  Monday,
+  Tuesday,
+  Wednsday,
+  Thursday,
+  Friday,
+  Saturday,
+  Sunday
+}

@@ -1,0 +1,6 @@
+public Education enum{
+  full-time,
+  part-time,
+  evening,
+  distance learning
+}
