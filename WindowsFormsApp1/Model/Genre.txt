@@ -1,0 +1,7 @@
+public Genre enum{
+  blockbuster,
+  comedy,
+  thriller,
+  drama,
+  action
+}
