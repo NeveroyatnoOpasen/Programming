@@ -18,3 +18,13 @@ C:\Users\Gleb\source\repos\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Deb
 C:\Users\Gleb\source\repos\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Programming.csproj.CoreCompileInputs.cache
 C:\Users\Gleb\source\repos\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Gleb\source\repos\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Programming.csproj.AssemblyReference.cache
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Programming.csproj.GenerateResource.cache
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gleb\Source\Repos\NeveroyatnoOpasen\Programming\Programming\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
